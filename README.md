@@ -1,4 +1,4 @@
-# Ola, eu sou o Caua Palhares
+# Ola, eu sou o Cauã Palhares
 
 Estudante de Engenharia da Computacao pela PUC-Rio, com interesse em desenvolvimento backend e sistemas — desde arquitetura de APIs ate design de software orientado a boas praticas e alta manutenibilidade.
 
